@@ -1,2 +1,8 @@
 Hello! My name is Nasir.
 This is a repo for python course lab 11.
+
+Summary:
+Lab 11 covers the basics of git and github.
+
+Insights:
+Knowing how to solve merge conflicts is very important for any developer. 
